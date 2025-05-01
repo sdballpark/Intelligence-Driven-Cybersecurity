@@ -36,11 +36,28 @@ Multi-agent systems and autonomous LLM-based agents designed for **automated cyb
 
 ---
 
+## 📚 GitHub Repositories for Cybersecurity Data Engineers
+
+This section focuses specifically on open-source GitHub repositories that would serve a **Lead Cybersecurity Data Engineer**, especially one responsible for integrating EDR systems, simulating attacks, and automating threat response using AI and data pipelines.
+
+| Repository | Description | Link |
+|------------|-------------|------|
+| **Awesome Incident Response** | Curated tools and workflows for incident detection, analysis, and response. | [View Repo](https://github.com/meirwah/awesome-incident-response) |
+| **Cybersecurity Incident Response** | Collection of response frameworks and software for SOCs and blue teams. | [View Repo](https://github.com/paulveillard/cybersecurity-incident-response) |
+| **AttackGen** | LLM-powered generator of attack simulation scenarios based on MITRE ATT&CK. | [View Repo](https://github.com/mrwadams/attackgen) |
+| **TheHive Project** | Scalable and open-source Incident Response Platform (IRP). | [View Repo](https://github.com/TheHive-Project/TheHive) |
+| **Sigma** | Generic SIEM signature format used in threat detection pipelines. | [View Repo](https://github.com/SigmaHQ/sigma) |
+| **OpenEDR** | Community-driven endpoint detection and response system. | [View Wiki](https://en.wikipedia.org/wiki/OpenEDR) |
+| **Awesome ML for Cybersecurity** | Machine learning libraries, papers, and datasets focused on security. | [View Repo](https://github.com/jivoi/awesome-ml-for-cybersecurity) |
+| **CyberShield - Incident Classification** | ML-based SOC helper for categorizing and prioritizing incidents. | [View Repo](https://github.com/kadarmeeran465/CyberShield-Cybersecurity-Incident-Classification) |
+| **Classifying Incidents w/ ML (Microsoft)** | Uses AI to automatically tag and prioritize alerts in enterprise SOCs. | [View Repo](https://github.com/udhaya2823/Microsoft---Classifying-Cybersecurity-Incidents-with-Machine_Learning) |
+
+---
+
 ### 👾 Use Case Highlights:
-- **Red Teamers**: Use PentestGPT for guided test execution.
-- **Blue Teams**: Automate log review and alert enrichment with AutoGPT-SOC.
-- **Cybersecurity Analysts**: Leverage ThreatHunter-GPT and MAESTRO to model AI risks and attacks.
-- **Executives & CISOs**: Use AI CISO agents for decision support and compliance readiness.
+- **Data Engineers**: Connect EDR APIs, normalize telemetry, and pipe logs to SIEM and ML models.
+- **SOC Engineers**: Feed incident simulation data into alert correlation platforms like TheHive or Splunk.
+- **Detection Engineers**: Use Sigma and AttackGen to generate and validate real-world detections.
 
 ---
 
